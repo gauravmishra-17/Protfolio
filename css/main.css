@@ -1,0 +1,21 @@
+.site {
+  color: #848c93;
+  margin: 0;
+  text-align: center;
+}
+.profile-pic {
+  border-radius: 30%;
+  height: 200px;
+  width: 200px;
+}
+body {
+  background-color: #222;
+}
+.heading {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 50px;
+}
+.intro {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 50px;
+}
